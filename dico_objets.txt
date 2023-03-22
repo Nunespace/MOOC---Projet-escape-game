@@ -1,0 +1,6 @@
+(1, 15), 'Terrifiant'
+(7, 1), 'Gigantesque'
+(11, 7), 'Météorite'
+(11, 17), 'Terre'
+(23, 5), 'Steven Spielberg'
+(25, 1), 'Préhistoire'
